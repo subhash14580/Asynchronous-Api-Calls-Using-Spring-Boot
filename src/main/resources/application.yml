@@ -1,0 +1,5 @@
+server:
+  port: 8090
+
+github:
+  url: https://api.github.com/users/%s
